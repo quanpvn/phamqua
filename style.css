@@ -1,0 +1,34 @@
+body {
+  background-image: url(./images.jpgs);
+}
+h1 {
+  /* màu chữ  */
+  color: blueviolet;
+  /* kiểu chữ */
+  font-style: italic;
+  /* phông chữ */
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  /* chuyển hoa thường */
+  text-transform: none;
+  /* căn giữa */
+  text-align: center;
+  /* cỡ chữ */
+  font-size: 30px;
+  /* mờ chữ */
+  opacity: 100%;
+}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #502929;
+}
+
+audio {
+  margin-top: 20px;
+  width: 300px;
+}
